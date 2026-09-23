@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Solmates Energy',
+	'bransch'        => 'Elektriker',
 	'telefon'        => '019-277 97 59',
 	'telefon_tel'    => '+46192779759',
 	'ort'            => 'Örebro',
